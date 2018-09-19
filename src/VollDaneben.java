@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-class Main {
+class VollDaneben {
 
     static final int COUNT = 1000000;
     static final Random rng = new Random();
